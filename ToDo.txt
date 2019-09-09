@@ -1,0 +1,1 @@
+add method to settings addAudioSource(Sound type type, AudioSource source) to allow the audio source's volume to be set automatically
